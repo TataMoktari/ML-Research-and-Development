@@ -6,9 +6,9 @@ This repository demonstrates how to build, train, and deploy a machine learning 
 🔍 Exploratory Data Analysis (EDA)\
 🧹 Feature Engineering & Selection\
 ⚙️ Model Training & Validation\
-📈 Performance Evaluation \
+📈 Performance Evaluation\
 
-🚀 Model Deployment (Optional) \
+🚀 Model Deployment (Optional)\
 
-🎯 Purpose
+🎯 Purpose\
 The goal is to provide a hands-on learning experience for building robust ML pipelines that are production-ready and reproducible.

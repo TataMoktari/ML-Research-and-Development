@@ -3,10 +3,10 @@
 This repository demonstrates how to build, train, and deploy a machine learning model in a complete end-to-end pipeline. It covers every stage of the machine learning workflow — from data preprocessing to model evaluation and scoring on new data.
 
 📦 Pipeline Highlights 
-🔍 Exploratory Data Analysis (EDA)
-🧹 Feature Engineering & Selection
-⚙️ Model Training & Validation
-📈 Performance Evaluation
+🔍 Exploratory Data Analysis (EDA)\
+🧹 Feature Engineering & Selection\
+⚙️ Model Training & Validation\
+📈 Performance Evaluation\
 
 🚀 Model Deployment (Optional)
 
